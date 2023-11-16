@@ -15,3 +15,9 @@ body {
   #picture_grid img {
     width: 10rem;
   }
+  #picture_cloud {
+    position: absolute;
+    top: 10vh;
+    width: 10rem;
+    right: 40vw;
+  }
