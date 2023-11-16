@@ -18,6 +18,6 @@ body {
   #picture_cloud {
     position: absolute;
     top: 10vh;
-    width: 10rem;
+    width: 10vw;
     right: 40vw;
   }
