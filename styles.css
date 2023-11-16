@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+    margin: 0;
+    background-image: linear-gradient(to right, #FBAB7E, #F7CE68);
+    margin: 0 auto;
+    max-width: 52rem;
+  }
+  #picture_grid {
+    display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  list-style: none;
+  }
+  #picture_grid img {
+    width: 10rem;
+  }
